@@ -55,15 +55,6 @@ streamlit run app.py
 
 ## Live Demo Recording
 
+[![Demo Video Link Here!](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Z_39Nguy2sg](https://youtu.be/6G_uiN6Nzoc?si=1FoO85cdILwR1g2g))
 
-<iframe
-  width="720"
-  height="600"
-  src="https://app.screencastify.com/watch/F201nTDFz0o6ngvRuauq/embed"
-  title="Entire Screen - Screencastify - August 18, 2026 10:59 AM"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen
-></iframe>
   
