@@ -52,3 +52,18 @@ streamlit run app.py
 <img width="1470" height="802" alt="Screenshot 2026-08-17 at 3 59 33 PM" src="https://github.com/user-attachments/assets/b9674e46-46d6-49bb-a20f-1e81420010a7" />
 
 <img width="1467" height="797" alt="Screenshot 2026-08-17 at 3 59 46 PM" src="https://github.com/user-attachments/assets/217cc927-f979-42d2-b873-b96c00d0f33f" />
+
+## Live Demo Recording
+
+
+<iframe
+  width="720"
+  height="600"
+  src="https://app.screencastify.com/watch/F201nTDFz0o6ngvRuauq/embed"
+  title="Entire Screen - Screencastify - August 18, 2026 10:59 AM"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
+  
