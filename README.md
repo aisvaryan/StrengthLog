@@ -55,6 +55,6 @@ streamlit run app.py
 
 ## Live Demo Recording
 
-[![Demo Video Link Here!](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Z_39Nguy2sg](https://youtu.be/6G_uiN6Nzoc?si=1FoO85cdILwR1g2g))
+[![Demo Video Link Here!](https://img.youtube.com/vi/6G_uiN6Nzoc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6G_uiN6Nzoc)
 
   
