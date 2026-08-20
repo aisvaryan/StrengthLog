@@ -4,6 +4,10 @@ Gym Progression Tracker & Training Analytics Dashboard
 ## Description
 StrengthLog is a professional fitness application designed to help lifters and athletes track their gym progress over time. By systematically recording workout data, users can eliminate guesswork and rely on data-driven insights. The application provides advanced analytics to monitor strength progression, track training volume, and automatically detect plateaus—helping you make informed decisions about deloads and programming.
 
+## Live Demo Recording
+
+[Demo Video Link Here!](https://www.youtube.com/watch?v=6G_uiN6Nzoc)
+
 ## Screenshots
 <img width="1465" height="346" alt="Screenshot 2026-08-17 at 3 58 40 PM" src="https://github.com/user-attachments/assets/a6342c5a-695b-45fe-b040-e170130f745d" />
 
@@ -17,9 +21,6 @@ StrengthLog is a professional fitness application designed to help lifters and a
 
 <img width="1467" height="797" alt="Screenshot 2026-08-17 at 3 59 46 PM" src="https://github.com/user-attachments/assets/217cc927-f979-42d2-b873-b96c00d0f33f" />
 
-## Live Demo Recording
-
-[Demo Video Link Here!](https://www.youtube.com/watch?v=6G_uiN6Nzoc)
 
 ## Features
 - Workout logging
